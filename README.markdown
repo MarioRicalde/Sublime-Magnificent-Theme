@@ -1,5 +1,6 @@
 # Sublime Text 2 Magnificent Theme
 
+![](http://dl.getdropbox.com/u/4651065/screenshots/2012/1/6-21h38m33s.png)
 
 #### Install it
 
