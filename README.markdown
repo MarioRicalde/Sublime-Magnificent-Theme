@@ -1,6 +1,6 @@
 # Sublime Text 2 Magnificent Theme
 
-#### Install it
+x#### Install it
 
 Go to your Sublime Text 2 `Packages`:
 
@@ -13,3 +13,8 @@ Go to your Sublime Text 2 `Packages`:
 Add this to the theme:
 
     "theme": "Sublime Magnificent.sublime-theme",
+
+#### Thanks to:
+
+Jon Skinner for fixing a bug that didn't allow me to use Sublime Dev.
+@BuyMeASoda for some of his light theme images
