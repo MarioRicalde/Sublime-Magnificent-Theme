@@ -1,6 +1,13 @@
 # Sublime Text 2 Magnificent Theme
 
-x#### Install it
+Features
+
+- One theme fit all.
+- Adaptable Theme. Most of the UI will adapt to the color Scheme you're using. If you're using a dark scheme the theme will try no to use bright colors. Same happens for Light schemes!
+- Tries not to loook too similar to chrome to create some contrast tool-wise.
+
+
+#### Install it
 
 Go to your Sublime Text 2 `Packages`:
 
