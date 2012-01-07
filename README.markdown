@@ -4,7 +4,7 @@
 
 #### Install it
 
-Go to your Sublime Text 2 `Packages:
+Go to your Sublime Text 2 `Packages`:
 
     git clone git@github.com:kuroir/Sublime-Magnificent-Theme.git "Theme - Sublime Magnificent"
 
