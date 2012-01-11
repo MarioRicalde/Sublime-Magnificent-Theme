@@ -404,7 +404,7 @@
 
     {
         "class": "quick_panel",
-        "row_padding": [12, 6], // kuroir
+        "row_padding": [12, 6],
         "layer0.tint": [25, 25, 25],
         "layer0.opacity": 1.0,
         "dark_content": false
@@ -491,10 +491,10 @@
         "layer1.opacity": 1.0,
 
         "content_margin": [3, 0, 3, 1],
-        "tab_overlap": 25, // kuroir Improvement
+        "tab_overlap": 25,
         "tab_width": 225,
         "tab_min_width": 48,
-        "tab_height": 32, // kuroir Improvement
+        "tab_height": 32,
         "mouse_wheel_switch": false
     },
     {
@@ -506,9 +506,9 @@
         // Tabset override for light colors
         "class": "tabset_control",
         "attributes": ["file_light"],
-        "layer1.opacity": 1.0, // kuroir Improvement
+        "layer1.opacity": 1.0,
         "layer1.texture": "Theme - Sublime Magnificent/light_tabset_background_transparent.png",
-        "layer2.opacity": 0.7, // kuroir Improvement
+        "layer2.opacity": 0.7,
         "layer2.texture": "Theme - Sublime Magnificent/light_tabset_background_transparent.png"
     },
     {
@@ -542,7 +542,7 @@
 
         "layer2.inner_margin": [22, 4],
 
-        "content_margin": [30, 10, 20, 4], // kuroir Improvement
+        "content_margin": [30, 10, 20, 4],
         "max_margin_trim": 6,
         "hit_test_level": 0.4
     },
@@ -551,12 +551,12 @@
     {
         "class": "tab_control", "attributes": ["file_light"],
         "layer2.texture": "Theme - Sublime Magnificent/light_unselected_tab_bg2.png",
-        "layer2.opacity": 0.8, // kuroir Improvement
-        "tint_modifier": [255, 255, 255, 255] // kuroir Improvement
+        "layer2.opacity": 0.8,
+        "tint_modifier": [255, 255, 255, 255]
     },
     { // Unselected hack
         "class": "tab_control", "attributes": ["file_light", "selected"],
-        "tint_modifier": [0, 0, 0, 0], // kuroir Improvement
+        "tint_modifier": [0, 0, 0, 0],
         "layer2.opacity": 0.7
     },
     {
@@ -673,7 +673,7 @@
         "layer1.texture": "Theme - Sublime Magnificent/dark_x.png",
         "layer1.opacity": 0.0,
         "layer2.texture": "Theme - Sublime Magnificent/grey_x_light_shadow.png",
-        "layer2.opacity": 0.5, // Kuroir
+        "layer2.opacity": 0.5,
         "layer3.texture": "Theme - Sublime Magnificent/dark_x_light_shadow.png",
         "layer3.opacity": 0.0
     },
