@@ -686,7 +686,7 @@
         "parents": [{"class": "tab_control", "attributes": ["file_light"]}],
         "attributes": ["dirty"],
         "settings": ["highlight_modified_tabs"],
-        "fg": [255, 23, 0]
+        "fg": [168, 44, 6]
     },
     {
         "class": "tab_label",
