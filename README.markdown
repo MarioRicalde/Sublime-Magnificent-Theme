@@ -1,5 +1,7 @@
 # Sublime Text 2 Magnificent Theme
 
+![](http://dl.dropbox.com/u/4651065/screenshots/2012/2/27-16h26m44s.png)
+
 Features
 
 - One theme fit all.
