@@ -344,7 +344,7 @@
     {
         "class": "sidebar_label",
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "color": [255, 255, 10],
+        "color": [255, 255, 255],
         "shadow_color": [0, 0, 0],
         "shadow_offset": [0, 1]
     },
@@ -357,7 +357,7 @@
     },
     {
         "class": "minimap_control",
-        "viewport_color": [68, 68, 68, 96]
+        "viewport_color": [215, 238, 0, 40]
     },
     {
         "class": "text_line_control",
