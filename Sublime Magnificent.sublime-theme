@@ -276,7 +276,7 @@
         "class": "tree_row",
         "layer0.texture": "Theme - Sublime Magnificent/row_highlight_dark.png",
         "layer0.opacity": 0.0,
-        "layer0.inner_margin": [1, 1]
+        "layer0.inner_margin": [1, 0]
     },
     {
         "class": "tree_row",
