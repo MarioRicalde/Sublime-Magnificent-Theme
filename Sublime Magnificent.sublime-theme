@@ -515,7 +515,7 @@
         "layer1.inner_margin": [1, 6],
         "layer1.opacity": 1.0,
 
-        "content_margin": [3, 0, 3, 1],
+        "content_margin": [7, 0, 3, 1],
         "tab_overlap": 25,
         "tab_width": 225,
         "tab_min_width": 48,
