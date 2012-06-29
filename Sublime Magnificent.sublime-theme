@@ -303,7 +303,7 @@
     },
     {
         "class": "sidebar_container", // aqui
-        "layer0.tint": [180, 180, 180],
+        "layer0.tint": [205, 205, 205],
         "layer0.opacity": 1.0,
         "layer0.draw_center": true,
         "layer0.inner_margin": [0, 0, 1, 0],
@@ -321,7 +321,7 @@
     },
     {
         "class": "sidebar_heading",
-        "color": [130, 130, 130],
+        "color": [160, 160, 160],
         "font.bold": true,
         "shadow_color": [250, 250, 250, 200],
         "shadow_offset": [0, 1]
@@ -336,7 +336,7 @@
     },
     {
         "class": "sidebar_label",
-        "color": [0, 0, 255],
+        "color": [10, 10, 10],
         "shadow_color": [250, 250, 250, 200],
         "font.bold": false,
         "shadow_offset": [0, 1]
@@ -347,6 +347,13 @@
         "color": [255, 255, 10],
         "shadow_color": [0, 0, 0],
         "shadow_offset": [0, 1]
+    },
+    {
+        "class": "sidebar_label",
+        "parents": [{"class": "tree_row", "attributes": ["expandable"]}],
+        "color" : [110, 110, 110],
+        "shadow_color": [250, 250, 250, 200],
+        "font.bold": true
     },
     {
         "class": "minimap_control",
