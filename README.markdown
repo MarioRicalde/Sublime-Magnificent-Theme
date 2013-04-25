@@ -27,3 +27,5 @@ Add this to the theme:
 
 Jon Skinner for fixing a bug that didn't allow me to use Sublime Dev.
 @BuyMeASoda for some of his light theme images
+
+Follow me at [Twitter](http://twitter.com/mario_ricalde) or at [mario.ricalde.mx](http://mario.ricalde.mx).
